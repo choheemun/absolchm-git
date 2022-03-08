@@ -1,0 +1,6 @@
+EEG_0_0.npy
+EEG_0_1.npy
+EEG_0_2.npy
+EEG_1_0.npy
+EEG_1_1.npy
+EEG_1_2.npy
